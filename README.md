@@ -7,7 +7,7 @@ Zalenium's maintainers add new features regularly. We invite you to test it, rep
 # What does Zalenium mean?
 As you can imagine, it is the result of mixing Zalando and Selenium. As mentioned before, this project's aim is to provide a simple way to create a grid and contribute to the Selenium community. Nevertheless, this is not an official Selenium project. We kindly ask you to create issues in this repository. If you have questions about how to get started, please join the #zalenium channel on Slack.
 
-# To pull all images 
+# To pull all images and run zalenium
 Execute dockerZalenium.bat
 
 # To run test suite execute below 
